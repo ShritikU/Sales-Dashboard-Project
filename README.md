@@ -11,4 +11,4 @@
 - How many new customers were acquired this month?
 - What is the revenue contribution of the top-selling category?
 
-- Dashboard Interaction <a href="https://github.com/ShritikU/Sales-Dashboard-Project/blob/main/Sales%20dashboard%20img.jpg">View Ddashboard</a>
+- Dashboard Interaction <a href="https://github.com/ShritikU/Sales-Dashboard-Project/blob/main/Sales%20Dashboard%20img.jpg">View Dashboard</a>
